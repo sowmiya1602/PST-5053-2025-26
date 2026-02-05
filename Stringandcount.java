@@ -17,5 +17,6 @@ public class Stringandcount {
 		 
 	}
 		System.out.println("count of vowels:"+count);
+        sc.close();
 }
 }

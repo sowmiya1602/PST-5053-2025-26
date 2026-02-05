@@ -21,5 +21,6 @@ public class Oddandeven {
 
         System.out.println("Even count = " + even);
         System.out.println("Odd count = " + odd);
+        sc.close();
     }
 }
